@@ -1,0 +1,17 @@
+1. SQL --> It's good to have consistency in absolutely every moment like financial transactions.
+2. NoSQL --> It's good to distribute the data but to keep a tightly transactional consistency.
+3. CAP Theorem. Vendors by group:
+    1. CA (Relational Databases):
+        1. Microsoft SQL Server
+        2. Oracle
+        3. DB2
+        4. MySQL
+        5. PostgreSQL
+    2. AP (Eventual Consistency):
+        1. MongoDB
+        2. Apache Cassandra
+        3. Amazon DynamoDB
+    3. CP (Alleged to be the hardest to implement):
+        1. Google Cloud Spanner
+        2. CockroachDB
+        3. YugabyteDB
